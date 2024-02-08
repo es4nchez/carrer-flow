@@ -21,7 +21,7 @@ class UserAlerting(commands.Cog):
                 {"company": "Groupe mutuel", "name_of_post": "Software Developer", "hour_of_interview": f"{rdv1}", "Room": "SSD", "alerts_sent": []},
                 {"company": "Infomaniak", "name_of_post": "Data Analyst", "hour_of_interview": f"{rdv2}", "Room": "Asgard", "alerts_sent": []}
             ],
-            "es4nchez": [
+            "__vincent": [
                 {"company": "42 Lausanne", "name_of_post": "Rust Senior Dev", "hour_of_interview": f"{rdv3}", "Room": "Upside Down", "alerts_sent": []}
             ]
         }
