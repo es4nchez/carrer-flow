@@ -1,0 +1,5 @@
+py-cord
+pyyaml
+PyPDF2
+peewee
+pandas
